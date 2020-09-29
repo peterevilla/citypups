@@ -68,7 +68,7 @@ module.exports = {
         600: '#38a169',
         700: '#2f855a',
         800: '#276749',
-        900: '#22543d',
+        900: '#387622',
       },
       teal: {
         100: '#e6fffa',
@@ -240,6 +240,7 @@ module.exports = {
       ],
       serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: ['Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
+      chewy: ['Chewy', 'cursive']
     },
     fontSize: {
       xs: '0.75rem',
