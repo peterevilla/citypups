@@ -7,7 +7,7 @@ import Flip from 'react-reveal/Flip';
 
 function Home() {
   return (
-    <div>
+    <div >
       <Header/>
       <div className="flex flex-col items-center">
         <div className="text-white text-4xl mt-32 p-8">

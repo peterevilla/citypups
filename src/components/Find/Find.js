@@ -1,13 +1,14 @@
 import React from 'react'
-import Header from "../Header"
+import Header2 from "../Header2"
 import DogCard from "./DogCard"
 const Find = () => {
     return (
-        <div>
-             <Header/>
+        <div className="">
+             <Header2/>
        
-        <div className="h-screen bg-white flex flex-co justify-start p-16">
+        <div className=" h-screen bg-white flex flex-col justify-start p-2 lg:px-56">
            
+            <DogCard/>
             <DogCard/>
         </div>
         </div>
