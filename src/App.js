@@ -5,7 +5,9 @@ import How from "./components/How";
 import { Switch, Route } from "react-router-dom";
 import Find from "./components/Find/Find";
 
+
 function App() {
+
   return (
     <div className="h-screen bg-green-900 font-chewy">
       <Switch>

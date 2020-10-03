@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-citypupsapi-dev-172538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::053826047713:role/amplify-citypupsapi-dev-172538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::053826047713:role/amplify-citypupsapi-dev-172538-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-citypupsapi-dev-172538-deployment",
+      "UnauthRoleName": "amplify-citypupsapi-dev-172538-unauthRole",
+      "StackName": "amplify-citypupsapi-dev-172538",
+      "StackId": "arn:aws:cloudformation:us-east-2:053826047713:stack/amplify-citypupsapi-dev-172538/3524caa0-04fe-11eb-90a1-0af2478844bc",
+      "AmplifyAppId": "d2rzedr60ldpn1"
+    }
+  }
+}
